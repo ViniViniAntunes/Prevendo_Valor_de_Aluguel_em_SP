@@ -30,7 +30,7 @@
 <p>Como "comprar um imóvel" (ainda mais em Boston) é uma coisa distante para mim, pensei em trazer o problema para mais próximo de minha realidade. E foi aí que a ideia surgiu.</p>
 
 <p>
-  Utilizando os conhecimentos adquiridos desde que comecei a estudar Data Science e incentivado por alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=42px/>
+  Utilizando os conhecimentos adquiridos desde que comecei a estudar Data Science e incentivado por alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=50px/>
 </p>
 
 <br>
