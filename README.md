@@ -30,7 +30,7 @@
 <p>Como "comprar um imóvel" (ainda mais em Boston) é uma coisa distante para mim, pensei em trazer o problema para mais próximo de minha realidade. E foi aí que a ideia surgiu.</p>
 
 <p>
-  Data app criado a partir dos conhecimentos adquiridos em meus estudos de Data Science e com o incentivo de alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=50px/>
+  Criado a partir dos conhecimentos adquiridos em meus estudos de Data Science e com o incentivo de alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=50px/>
 </p>
 
 <br>
