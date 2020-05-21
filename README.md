@@ -50,9 +50,9 @@
   <ul>
     <li>pandas <img src="Previsao_valor_aluguel/images/pandas.svg" width=30px/></li>
     <li>numpy <img src="Previsao_valor_aluguel/images/numpy.svg" width=30px/></li>
-    <li>matplotlib.pyplot <img src="Previsao_valor_aluguel/images/matplotlib.svg" width=30px/></li>
+    <li>matplotlib (.pyplot) <img src="Previsao_valor_aluguel/images/matplotlib.svg" width=30px/></li>
     <li>seaborn <img src="Previsao_valor_aluguel/images/seaborn.svg" width=30px/></li>
-    <li>sklearn.ensemble.RandomForestRegressor <img src="Previsao_valor_aluguel/images/random_forest.svg" width=30px/></li>
+    <li>sklearn (.ensemble.RandomForestRegressor) <img src="Previsao_valor_aluguel/images/random_forest.svg" width=30px/></li>
   </ul>  
 </p>
 
