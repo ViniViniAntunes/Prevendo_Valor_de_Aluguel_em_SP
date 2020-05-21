@@ -30,7 +30,7 @@
 <p>Como "comprar um imóvel" (ainda mais em Boston) é uma coisa distante para mim, pensei em trazer o problema para mais próximo de minha realidade. E foi aí que a ideia surgiu.</p>
 
 <p>
-  Utilizando os conhecimentos adquiridos desde que comecei a estudar Data Science e incentivado por alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=50px/>
+  Data app criado a partir dos conhecimentos adquiridos em meus estudos de Data Science e com o incentivo de alguns gigantes.<img src="Previsao_valor_aluguel/images/isaac_newton.svg" width=50px/>
 </p>
 
 <br>
@@ -87,10 +87,11 @@
 <h2><img src="Previsao_valor_aluguel/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
 
 <ul>
-  <li><a href="https://github.com/LuizArmesto" target="_blank">Luiz Armesto</a> (por disponibilizar o dados e pela mentoria)</li>
-  <li><a href="https://minerandodados.com.br/" target="_blank">Felipe e Rodrigo Santana</a> (pelas aulas na Semana Data Science)</li>
-  <li><a href="https://www.mariofilho.com/" target="_blank">Mário Filho</a> (pelas lives esclarecedoras)</li>
-  <li><a href="https://www.linkedin.com/in/meigarom/" target="_blank">Meigarom Lopes</a> (pelos vídeos)</li>
+  <li><a href="https://github.com/LuizArmesto" target="_blank"> Luiz Armesto </a> (por disponibilizar o dados e pela mentoria)</li>
+  <li><a href="https://minerandodados.com.br/" target="_blank"> Felipe e Rodrigo Santana </a> (pelas aulas na Semana Data Science)</li>
+  <li><a href="https://www.alura.com.br/" target="_blank"> Alura </a> (pelos cursos)</li>
+  <li><a href="https://www.mariofilho.com/" target="_blank"> Mário Filho </a> (pelas lives esclarecedoras)</li>
+  <li><a href="https://www.linkedin.com/in/meigarom/" target="_blank"> Meigarom Lopes </a> (pelos vídeos)</li>
 </ul>
 
 <p>
