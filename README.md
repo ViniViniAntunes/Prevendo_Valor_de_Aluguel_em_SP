@@ -74,16 +74,6 @@
 </ul>
 <br>
 
-<h2><img src="Previsao_valor_aluguel/images/autor.svg" width=50px/> Autor </h2>
-
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/vini-antunes/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="150px;" alt="foto do autor"/><br /><sub><b>Vini Antunes</b></sub></a><br /></td>
-  <tr>
-</table>
-
-<br>
-
 <h2><img src="Previsao_valor_aluguel/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
 
 <ul>
@@ -109,3 +99,13 @@
     </adress>
   <sub>
 </p>
+
+<br>
+
+<h2><img src="Previsao_valor_aluguel/images/autor.svg" width=50px/> Autor </h2>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/vini-antunes/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="150px;" alt="foto do autor"/><br /><sub><b>Vini Antunes</b></sub></a><br /></td>
+  <tr>
+</table>
