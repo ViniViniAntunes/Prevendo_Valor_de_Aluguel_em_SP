@@ -87,10 +87,10 @@
 <h2><img src="Previsao_valor_aluguel/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
 
 <ul>
-  <li><a href="https://github.com/LuizArmesto" target="_blank"> Luiz Armesto </a> (por disponibilizar o dados e pela mentoria)</li>
+  <li><a href="https://github.com/LuizArmesto" target="_blank"> Luiz Armesto </a> (por disponibilizar o dados e pelos esclarecimentos)</li>
   <li><a href="https://minerandodados.com.br/" target="_blank"> Felipe e Rodrigo Santana </a> (pelas aulas na Semana Data Science)</li>
   <li><a href="https://www.alura.com.br/" target="_blank"> Alura </a> (pelos cursos)</li>
-  <li><a href="https://www.mariofilho.com/" target="_blank"> Mário Filho </a> (pelas lives esclarecedoras)</li>
+  <li><a href="https://www.mariofilho.com/" target="_blank"> Mário Filho </a> (pelas lives)</li>
   <li><a href="https://www.linkedin.com/in/meigarom/" target="_blank"> Meigarom Lopes </a> (pelos vídeos)</li>
 </ul>
 
