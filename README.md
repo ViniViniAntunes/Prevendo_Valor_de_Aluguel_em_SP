@@ -106,7 +106,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/vini-antunes/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="150px;" alt="foto do autor"/><br /><sub><b>Vini Antunes</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/vini-antunes/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="140px;" alt="foto do autor"/><br /><sub><b>Vini Antunes</b></sub></a><br /></td>
   <tr>
 </table>
 
